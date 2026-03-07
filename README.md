@@ -97,17 +97,6 @@ Built as a complete engineering exercise — not just code, but the **full SDLC*
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mohamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohmadWalid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohmadWalid&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Education
 
