@@ -1,11 +1,9 @@
 <div align="center">
 
 # Hi, I'm Mohamad Walid 👋
-### Computer Science Student · Full-Stack Developer in Progress
+### Computer Science Student · Backend Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadwalid/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohmadWalid)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
 
 </div>
 
@@ -13,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **3rd-year Computer Science & Engineering student** at **Egypt-Japan University of Science and Technology (E-JUST)** 🎌.
+I'm a **4th-year Computer Science & Engineering student** at **Egypt-Japan University of Science and Technology (E-JUST)** 🎌.
 
 My journey started with building strong fundamentals — algorithms, data structures, and systems thinking — then expanded into full-stack web development. I believe great engineers don't just write code; they design systems.
 
