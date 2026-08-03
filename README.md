@@ -1,118 +1,103 @@
 <div align="center">
 
-# Hi, I'm Mohamad Walid 👋
-### Computer Engineering Student · Backend Developer · Competitive Programmer
+# Mohamad Walid Bader
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadwalid/)
+**Backend Engineer · Laravel & PHP · E-JUST CSE '27**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadwalid/)
+[![GitHub](https://img.shields.io/badge/GitHub-MohmadWalid-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohmadWalid)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **4th-year Computer Engineering student** at **Egypt-Japan University of Science and Technology (E-JUST)** 🎌, passionate about building **scalable backend systems** and solving real-world problems through code.
-
-My academic journey is strengthened by completing core computer science courses at **Gammal Tech** 🐪 — including C, C++, Data Structures, Algorithms, and OOP — and by continuously improving my problem-solving skills on **LeetCode** ⚙️.
-
-Recently, I've been diving deeper into **Backend Development**, working with **PHP & Laravel** to design and build practical web applications — focusing on clean architecture, database design, and application flow.
-
-> *Always eager to learn, collaborate, and contribute to impactful software projects.* 🚀
+Backend engineer with hands-on experience shipping two live web applications, including a freelance membership platform for a medical society and an AI-powered job board with LLM integration.
+Currently a Computer Science and Engineering student at E-JUST (graduating Feb 2027), seeking software engineering internships and entry-level backend roles.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🌐 Backend & Web
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages:** C · C++ · Python · PHP
 
-### 💻 Systems & Fundamentals
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures_%26_Algorithms-4CAF50?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP_%26_Design_Patterns-9C27B0?style=flat-square)
+**Backend:** Laravel 12 · REST APIs · Eloquent ORM · MVC · RBAC · Authentication & Authorization · ERD & Database Design · MySQL · MariaDB
 
-### 🤖 Embedded & AI
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**AI & Async:** Groq API · FAISS · Laravel Queues · RAG · LLM Integration
 
-### ⚙️ Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux (WSL)](https://img.shields.io/badge/WSL_2_(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+**DevOps & Tools:** Docker · Git & GitHub · WSL/Linux · Railway (PaaS) · Hostinger · PHPMyAdmin
 
 ---
 
-## 🚀 Featured Project
+## Experience
 
-### 🧑‍💼 Shaghlni — Job Board Platform (شغلني)
+**Backend Developer, Freelance** — Egyptian Sleep Society
+*Mar 2026 – Apr 2026 · Remote*
 
-> *"Employ Me"* — A full-featured, production-ready job board built end-to-end with Laravel
-
-| | |
-|---|---|
-| 🌐 **Live** | [dash.infinityfree.com](https://dash.infinityfree.com/) |
-| 📦 **Repo** | [Job-board-summer_project_laravel_2025](https://github.com/MohmadWalid/Job-board-summer_project_laravel_2025-) |
-| ⚙️ **Stack** | Laravel 11 · PHP · MariaDB · Tailwind CSS · Alpine.js · Docker |
-| 🏛️ **Apps** | `job-app` (Job Seekers) + `job-backoffice` (Admin Panel) |
-
-Built as a complete engineering exercise — not just code, but the **full SDLC**:
-
-```
-📄 SRS  →  🏗️ System Design  →  🗄️ ERD  →  🔄 Workflow  →  🏛️ MVC  →  🚀 Deploy
-```
-
-✅ MVC · Blade Templates · Eloquent ORM · Form Validation · Auth · Role-based Policies · Docker
+- Co-authored the project proposal (scope, hosting plan, and payment gateway integration) and served as the backend developer, owning the full backend from ERD through production deployment.
+- Delivered a bilingual (AR/EN) membership platform covering SRS, ERD design, API development, and production hosting on Hostinger with SSL and custom domain email.
+- Designed three user roles (Viewer / Member / Admin) with two-step onboarding (credential check + bank transfer) and a content-gated admin panel for videos, PDFs, and pricing.
+- Platform is live, used by active medical professionals, and now an affiliate of the World Sleep Society.
 
 ---
 
-## 🏆 Achievements & Certifications
+## Projects
 
-### 🥇 Competitive Programming
-| Achievement | Details |
-|---|---|
-| 🏅 **ICPC ECPC Qualifications 2025** | **Placed 52nd out of 414 teams** 🎉 |
+### [AI System for Customer Support Call Evaluation](https://github.com/Mohamed-Makram47/AI-system-for-customer-support-call-evaluation)
+`Python · Whisper · FAISS · Llama 4 Scout · Groq` — Graduation Project · Feb 2026 – Present
 
-### 📜 Certifications
+Built a 5-phase pipeline that reduces manual QA review time by evaluating banking support calls against 78 policy manuals and generating structured agent coaching reports.
 
-| Certificate | Issuer | Date | Score |
-|---|---|---|---|
-| 🚀 Laravel 12: The Complete Guide | Udemy | Feb 2026 | ✅ |
-| 🤖 AI For Everyone (AI4E) | MaharaTech – ITIMooca | May 2025 | ✅ |
-| 🔧 Git and GitHub | Almdrasa المدرسة | Feb 2025 | ✅ |
-| 🐪 OOP Course | Gammal Tech | Oct 2024 | ✅ |
-| 📊 Algorithms Course | Gammal Tech | Sep 2024 | **82%** |
-| 🗂️ Data Structures Course | Gammal Tech | May 2024 | ✅ |
-| 💻 C++ Programming Course | Gammal Tech | Dec 2023 | **92%** 🌟 |
-| ⚙️ C Programming Course | Gammal Tech | Oct 2023 | ✅ |
-| 🤖 Robotics Level 1 (50 Hours) | Smart Technology | Sep 2023 | ✅ |
+**Team pipeline:** Whisper transcribes audio with speaker diarization → intent classifier tags each turn with a BANKING77 label → structured transcript passed to the RAG engine.
+
+**My contribution (Phase 4 & 5):** topic segmentation + class-scoped FAISS retrieval pulls the right policy chunks → Llama 4 Scout (Groq) returns a JSON compliance verdict → weighted rubric (Policy 50% · Resolution 30% · Communication 20%) produces a 0–100 score with violations list and suggested phrasing.
 
 ---
 
+### [Shaghlni — Job Board & Admin Management System](https://github.com/MohmadWalid/Job-board-summer_project_laravel_2025)
+`Laravel 12 · Docker · MariaDB · Railway` — [Live: Job Board](https://job-app.up.railway.app/) · [Back Office](https://job-backoffice.up.railway.app/login)
 
-## 🎓 Education
+Built and deployed a two-portal app (Job Board + Admin Back Office) from zero to live as the sole developer, covering the full project lifecycle from SRS and ERD to production on Railway (PaaS).
 
-| | Institution | Degree | Period |
-|---|---|---|---|
-| 🎌 | **Egypt-Japan University of Science & Technology (E-JUST)** | Bachelor of Engineering — Computer Engineering | Sep 2022 – Feb 2027 |
-| 🐪 | **Gammal Tech** | C · C++ · Data Structures · Algorithms · OOP | 2023 – 2024 |
+- Implemented RBAC, token-based auth, and multi-step validation, then integrated Groq API (Llama 3.3) for AI-powered application scoring via Laravel Queues.
+- Containerized the dev environment with Docker on WSL and deployed both portals as independent Railway apps sharing one database.
 
-**University Coursework:** Python · OOP · Data Structures · Design Patterns · Algorithms · Software Design · Embedded Systems · Operating Systems · Computer Architecture · Deep Learning · Robotics · ROS · Computer Vision · Compilers
+---
+
+## Education
+
+**Egypt-Japan University of Science and Technology (E-JUST)**
+B.Sc. in Computer Science and Engineering · GPA: 3.16 / 4.0 · Sep 2022 – Feb 2027
+
+---
+
+## Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| Laravel 12: The Complete Guide for Beginners | Udemy | Feb 2026 |
+| AI For Everyone | MaharaTech – ITIMooca | May 2025 |
+| Git and GitHub | Almdrasa | Feb 2025 |
+| OOP Course | Gammal Tech | Oct 2024 |
+| Algorithms Course (82%) | Gammal Tech | Sep 2024 |
+| Data Structures Course | Gammal Tech | May 2024 |
+| C++ Programming Course (92%) | Gammal Tech | Dec 2023 |
+| C Programming Course | Gammal Tech | Oct 2023 |
+| Robotics Level 1 (50 Hours) | Smart Technology | Sep 2023 |
+
+---
+
+## Competitions & Development
+
+**ECPC 2024 Qualifications** — Ranked 52nd / 414 teams (top 12.6%) · competitive programming, 3-member team
+
+**Backend Development Mentorship** — Hassan Ibrahim (Principal SWE at Foodics; ex-Staff SWE at Talabat) · Laravel internals, HTTP, SE best practices · 2024 – Present
 
 ---
 
 <div align="center">
 
-*"The best engineers don't just write code — they build solutions."*
-
-📫 **Let's connect →** [linkedin.com/in/mohamadwalid](https://www.linkedin.com/in/mohamadwalid/)
+📫 [mohmad.walid@ejust.edu.eg](mailto:mohmad.walid@ejust.edu.eg) · [linkedin.com/in/mohamadwalid](https://www.linkedin.com/in/mohamadwalid/)
 
 </div>
