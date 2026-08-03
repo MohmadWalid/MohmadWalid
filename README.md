@@ -5,7 +5,7 @@
 **Backend Engineer · Laravel & PHP · E-JUST CSE '27**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamadwalid/)
-[![Email](https://img.shields.io/badge/Email-mohmad.walid@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohmad.walid@ejust.edu.eg)
+[![Email](https://img.shields.io/badge/Email-mohmad.walid@ejust.edu.eg-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohmadwalid2003@gmail.com)
 
 </div>
 
